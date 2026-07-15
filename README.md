@@ -110,12 +110,6 @@ A role-based academic task management platform for Admin, Dean, HOD, and Faculty
 
 **Tech used:** Django REST Framework, React, Vite, Material UI, Tailwind CSS, JWT, SQLite/PostgreSQL
 
-### More Projects
-
-- **Portfolio Website** - Add your personal portfolio project link here.
-- **Full Stack App** - Add another project that shows your backend and frontend skills.
-- **Mini Projects** - Add smaller projects that show practice, consistency, and learning.
-
 ---
 
 ## 💼 Experience
@@ -128,41 +122,19 @@ A role-based academic task management platform for Admin, Dean, HOD, and Faculty
 
 ## 🎓 Education
 
-- **Degree / Program:** Add your degree or course name here.
-- **Institution:** Add your college or university name here.
+- **Degree / Program:** B.Sc cs- ARTIFICIAL INTELLIGENCE AND DATA SCIENCE .
+- **Institution:** Karpagam Academy of Higher Education (Deemed University).
 - **Focus Areas:** Web development, software engineering, databases, full-stack application development.
-
----
----
-
-## 🌱 Currently Learning
-
-- Advanced React patterns and reusable component design
-- Django REST API architecture and authentication best practices
-- PostgreSQL, deployment, environment configuration, and production readiness
-- System design basics and clean project architecture
-- UI polish, accessibility, and responsive design
-
----
-
-## 🎯 Goals
-
-- Build production-ready full-stack applications
-- Contribute to open-source projects
-- Improve problem-solving and data structure skills
-- Create a strong developer portfolio
-- Keep learning modern technologies and best practices
 
 ---
 
 ## 📫 Contact Information
 
 ```text
-Email: your.email@example.com
+Email: bbebinr@gmail.com
 GitHub: https://github.com/Bebin-dotm
-Instagram: https://www.instagram.com/your-instagram-username/
-Portfolio: https://your-portfolio-link.com
-Location: Add your city/country if you want
+Instagram: https://www.instagram.com/bebin.tech/
+Location: coimbatore/tamil nadu
 ```
 
 ---
