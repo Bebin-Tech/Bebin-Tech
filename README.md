@@ -13,11 +13,6 @@
 
 <br />
 <br />
-
-<img src="https://komarev.com/ghpvc/?username=Bebin-dotm&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Bebin-dotm?label=Followers&style=for-the-badge&color=22c55e" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/Bebin-dotm?label=Stars&style=for-the-badge&color=f59e0b" alt="GitHub stars" />
-
 </div>
 
 ---
