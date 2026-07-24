@@ -9,7 +9,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&random=false&width=900&height=70&lines=Hi%2C+I+am+Bebin.;Full+Stack+Developer;Mobile+App+Developer;Django+%7C+React+%7C+REST+APIs;Building+Scalable+Web+Applications;Turning+Ideas+Into+Clean+Digital+Products)](https://git.io/typing-svg)
 
-<sub><strong>Building modern full-stack and mobile applications with practical features, smooth user experiences, and maintainable architecture.</strong></sub>
 
 <br />
 <br />
