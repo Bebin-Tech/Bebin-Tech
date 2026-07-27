@@ -44,20 +44,14 @@ I'm **Bebin R**, a developer interested in building useful, modern, and scalable
 
 <div align="center">
 
-<a href="mailto:your.email@example.com">
+<a href="mailto:bbebinr@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 <a href="https://github.com/Bebin-dotm">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://www.instagram.com/your-instagram-username/">
+<a href="https://www.instagram.com/bebin.tech/">
   <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://x.com/your-x-username">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="https://your-portfolio-link.com">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 
 </div>
