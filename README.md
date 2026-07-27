@@ -24,14 +24,14 @@
 
 ## 👨‍💻 About Me
 
-I'm **Bebin**, a full stack developer who enjoys building practical, polished, and reliable web applications. I like working across the full product flow, from designing responsive user interfaces to building secure backend APIs and organizing data in a clean way.
+I'm **Bebin R**, a developer interested in building useful, modern, and scalable digital products. I enjoy learning new technologies, contributing to open source, and working on full stack and backend-focused projects.
 
-- 🔭 Currently working on **academic task management systems and full-stack web applications**
-- 💬 Ask me about **Django, REST APIs, React, authentication, dashboards, and deployment**
-- 🧠 I care about **clean code, good UI, maintainable architecture, and real-world usability**
-- 🤝 Open to **collaboration, internships, freelance projects, and learning opportunities**
-- ⚡ Fun fact: I enjoy making projects look professional, not just functional
-
+- **Name:** Bebin R
+- **Languages:** Python, C++, JavaScript, and more
+- **Interests:** AI, Open Source, Backend Development, Full Stack Development
+- **Current Focus:** AI Based Automation Projects and Open Source Contributions
+- **Hobbies:** Movies, Reading, and Exploring New Technologies
+- **Fun Fact:** I like exploring new technologies more than sleeping sometimes
 ---
 
 ## ⚙️ Technologies & Tools
