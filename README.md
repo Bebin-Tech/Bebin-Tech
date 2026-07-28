@@ -9,14 +9,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&random=false&width=900&height=70&lines=Hi%2C+I+am+Bebin.;Full+Stack+Developer;Mobile+App+Developer;Django+%7C+React+%7C+REST+APIs;Building+Scalable+Web+Applications;Turning+Ideas+Into+Clean+Digital+Products)](https://git.io/typing-svg)
 
-<sub><strong>Building modern full-stack and mobile applications with practical features, smooth user experiences, and maintainable architecture.</strong></sub>
-
 <br />
 <br />
 
 <img src="https://komarev.com/ghpvc/?username=Bebin-dotm&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Bebin-dotm?label=Followers&style=for-the-badge&color=22c55e" alt="GitHub followers" />
-<img src="https://img.shields.io/github/stars/Bebin-dotm?label=Stars&style=for-the-badge&color=f59e0b" alt="GitHub stars" />
 
 </div>
 
@@ -50,80 +46,26 @@ I'm **Bebin R**, a developer interested in building useful, modern, and scalable
 
 </div>
 
----
-
-## 🌐 Social Links
-
-<div align="center">
-
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://github.com/Bebin-dotm">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.instagram.com/your-instagram-username/">
-  <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://x.com/your-x-username">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
-<a href="https://your-portfolio-link.com">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-
 </div>
 
 ---
----
 
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Bebin-dotm/Task-Management-System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bebin-dotm&repo=Task-Management-System&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb&icon_color=22c55e" alt="Task Management System" />
-</a>
-<a href="https://github.com/Bebin-dotm/your-second-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bebin-dotm&repo=your-second-project&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e5e7eb&icon_color=22c55e" alt="Second featured project" />
-</a>
-
-</div>
-
-### KAHE Task Management System
-
-A role-based academic task management platform for Admin, Dean, HOD, and Faculty users. It supports department management, task assignment, faculty submissions, approval workflows, reports, completed tasks, notifications, and module-level access permissions.
-
-**Tech used:** Django REST Framework, React, Vite, Material UI, Tailwind CSS, JWT, SQLite/PostgreSQL
-
----
-
-## 💼 Experience
-
-- **Full Stack Developer / Student Developer** - Building academic and productivity-focused web applications.
-- **Project Work:** Designed and developed role-based dashboards, REST APIs, authentication flows, task workflows, and responsive UI screens.
-- **Collaboration:** Comfortable working with GitHub, documentation, debugging, and iterative feature development.
-
----
 
 ## 🎓 Education
 
-- **Degree / Program:** Add your degree or course name here.
-- **Institution:** Add your college or university name here.
-- **Focus Areas:** Web development, software engineering, databases, full-stack application development.
+- **Degree / Program:** B.Sc cs ARTIFICIAL INELLIGENCE AND DATA SCIENCE.
+- **Institution:** KARPAGAM ACADEMY OF HIGHER EDUCATION (Deemend University).
+- **Focus Areas:** Web development, software engineering, Backend developer, full-stack application development.
 
 ---
 
 ## 📫 Contact Information
 
 ```text
-Email: your.email@example.com
+Email: bbebinr@gmail.com
 GitHub: https://github.com/Bebin-dotm
-Instagram: https://www.instagram.com/your-instagram-username/
-Portfolio: https://your-portfolio-link.com
-Location: Add your city/country if you want
+Instagram: https://www.instagram.com/bebin.tech/
+
 ```
 
 ---
