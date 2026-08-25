@@ -26,9 +26,6 @@ I'm **Bebin R**, a developer interested in building useful, modern, and scalable
 - **Languages:** Python, C++, JavaScript, and more
 - **Interests:** AI, Open Source, Backend Development, Full Stack Development
 - **Current Focus:** AI Based Automation Projects and Open Source Contributions
-- **Hobbies:** Movies, Reading, and Exploring New Technologies
-- **Fun Fact:** I like exploring new technologies more than sleeping sometimes
-
 ---
 
 ## ⚙️ Technologies & Tools
