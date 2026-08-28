@@ -11,9 +11,6 @@
 
 <br />
 <br />
-
-<img src="https://komarev.com/ghpvc/?username=Bebin-dotm&label=Profile%20Views&color=2563eb&style=for-the-badge" alt="Profile views" />
-
 </div>
 
 ---
@@ -46,7 +43,6 @@ I'm **Bebin R**, a developer interested in building useful, modern, and scalable
 </div>
 
 ---
-
 
 ## 🎓 Education
 
