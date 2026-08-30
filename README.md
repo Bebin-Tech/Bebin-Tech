@@ -6,13 +6,15 @@
 
 <p>
   <a href="mailto:bbebinr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bbebinr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" />
   </a>
+  &nbsp;
   <a href="https://github.com/Bebin-Tech">
-    <img src="https://img.shields.io/badge/GitHub-Bebin--dotm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40" />
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/bebin.tech/">
-    <img src="https://img.shields.io/badge/Instagram-bebin.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40" />
   </a>
 </p>
 
@@ -58,6 +60,30 @@ I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas 
 - **Automation projects** — practical tools powered by AI and modern dev workflows
 
 <br/>
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bebin-Tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=stars,commits" alt="Bebin's GitHub stats" />
+
+<br/><br/>
+
+![Total Contributions](https://img.shields.io/badge/Total_Contributions-584-22c55e?style=for-the-badge&logo=github&logoColor=white)
+
+<br/><br/>
+
+**Top Languages**
+
+<br/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+</div>
+
 <br/>
 
 ## 📫 Let's Connect
@@ -79,6 +105,8 @@ I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas 
 <div align="center">
 
 <br/>
+
+**Thanks for stopping by — always open to interesting projects and collaborations.**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22c55e,50:2563eb,100:020617)
 
