@@ -63,6 +63,4 @@ I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=110&amp;section=footer&amp;color=0:22c55e,50:2563eb,100:020617" alt="Footer" />
-
 </div>
