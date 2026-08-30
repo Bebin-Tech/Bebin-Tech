@@ -1,10 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:020617,45:2563eb,100:22c55e&amp;text=Bebin%20R&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=36&amp;desc=Full%20Stack%20%26%20Mobile%20App%20Developer&amp;descAlignY=58&amp;descSize=16&amp;animation=fadeIn" alt="Bebin R - Full Stack and Mobile App Developer" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;random=false&amp;width=820&amp;height=50&amp;lines=Full+Stack+Developer;Mobile+App+Developer;Django+%7C+React+%7C+REST+APIs;Building+Scalable+Web+Applications;Turning+Ideas+Into+Clean+Digital+Products" alt="Typing SVG" />
-</a>
 
 <p>
   <a href="mailto:bbebinr@gmail.com">
