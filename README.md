@@ -63,12 +63,22 @@ I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bebin-Tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Bebin's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bebin-Tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bebin-Tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=stars,commits" alt="Bebin's GitHub stats" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bebin-Tech&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+![Total Contributions](https://img.shields.io/badge/Total_Contributions-584-22c55e?style=for-the-badge&logo=github&logoColor=white)
+
+<br/><br/>
+
+**Top Languages**
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
 
