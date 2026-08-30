@@ -8,7 +8,7 @@
   <a href="mailto:bbebinr@gmail.com">
     <img src="https://img.shields.io/badge/Email-bbebinr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Bebin-dotm">
+  <a href="https://github.com/Bebin-Tech">
     <img src="https://img.shields.io/badge/GitHub-Bebin--dotm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.instagram.com/bebin.tech/">
@@ -63,12 +63,12 @@ I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bebin-dotm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Bebin's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bebin-dotm&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bebin-Tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Bebin's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bebin-Tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bebin-dotm&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bebin-Tech&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 
 </div>
 
@@ -81,7 +81,7 @@ I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas 
 <a href="mailto:bbebinr@gmail.com">
     <img src="https://img.shields.io/badge/Email-bbebinr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://github.com/Bebin-dotm">
+<a href="https://github.com/Bebin-Tech">
     <img src="https://img.shields.io/badge/GitHub-Bebin--dotm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.instagram.com/bebin.tech/">
