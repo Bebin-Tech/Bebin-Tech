@@ -1,17 +1,5 @@
 
 
-<p>
-  <a href="mailto:bbebinr@gmail.com">
-    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" height="40" />
-  </a>
-  <a href="https://github.com/Bebin-Tech">
-    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" height="40" />
-  </a>
-  <a href="https://www.instagram.com/bebin.tech/">
-    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" height="40" />
-  </a>
-</p>
-
 </div>
 
 <br/>
