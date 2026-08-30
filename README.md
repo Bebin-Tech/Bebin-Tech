@@ -1,20 +1,20 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,45:2563eb,100:22c55e&text=Bebin%20R&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=Full%20Stack%20%26%20Mobile%20App%20Developer&descAlignY=58&descSize=16&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:020617,45:2563eb,100:22c55e&amp;text=Bebin%20R&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=36&amp;desc=Full%20Stack%20%26%20Mobile%20App%20Developer&amp;descAlignY=58&amp;descSize=16&amp;animation=fadeIn" alt="Bebin R - Full Stack and Mobile App Developer" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&random=false&width=820&height=50&lines=Full+Stack+Developer;Mobile+App+Developer;Django+%7C+React+%7C+REST+APIs;Building+Scalable+Web+Applications;Turning+Ideas+Into+Clean+Digital+Products)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;random=false&amp;width=820&amp;height=50&amp;lines=Full+Stack+Developer;Mobile+App+Developer;Django+%7C+React+%7C+REST+APIs;Building+Scalable+Web+Applications;Turning+Ideas+Into+Clean+Digital+Products" alt="Typing SVG" />
+</a>
 
 <p>
   <a href="mailto:bbebinr@gmail.com">
-    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" />
+    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" height="40" />
   </a>
-  &nbsp;
   <a href="https://github.com/Bebin-Tech">
-    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40" />
+    <img src="https://img.shields.io/badge/-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" height="40" />
   </a>
-  &nbsp;
   <a href="https://www.instagram.com/bebin.tech/">
-    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40" />
+    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" height="40" />
   </a>
 </p>
 
@@ -39,14 +39,14 @@ I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,vite,tailwind,materialui,django,mysql,postgres,sqlite,git,github,vscode,postman,docker,linux,firebase,vercel&theme=dark&perline=10" alt="Technologies and tools" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,vite,tailwind,materialui,django,mysql,postgres,sqlite,git,github,vscode,postman,docker,linux,firebase,vercel&amp;theme=dark&amp;perline=10" alt="Technologies and tools" />
 
 <br/><br/>
 
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&logo=django&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&logo=fastapi&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=111827)
+<img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django REST Framework" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&amp;logo=render&amp;logoColor=111827" alt="Render" />
 
 </div>
 
@@ -66,13 +66,13 @@ I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas 
 <div align="center">
 
 <a href="mailto:bbebinr@gmail.com">
-  <img src="https://img.shields.io/badge/Email-bbebinr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-bbebinr%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/Bebin-Tech">
-  <img src="https://img.shields.io/badge/GitHub-Bebin--Tech-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Bebin--Tech-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.instagram.com/bebin.tech/">
-  <img src="https://img.shields.io/badge/Instagram-bebin.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-bebin.tech-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
 </a>
 
 </div>
@@ -81,6 +81,6 @@ I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas 
 
 <br/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22c55e,50:2563eb,100:020617)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=110&amp;section=footer&amp;color=0:22c55e,50:2563eb,100:020617" alt="Footer" />
 
 </div>
