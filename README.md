@@ -22,20 +22,20 @@
 
 <br/>
 
-## 👋 About Me
+## About Me
 
-I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas into clean, reliable, production-ready software. I focus on backend architecture, scalable APIs, and thoughtful user experiences — and I'm currently exploring AI-driven automation and contributing to open source.
+I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas into clean, reliable, production-ready software. I focus on backend architecture, scalable APIs, and thoughtful user experiences, and I'm currently exploring AI-driven automation and contributing to open source.
 
 | | |
 |---|---|
-| 🎓 **Education** | B.Sc. Computer Science (AI & Data Science) — Karpagam Academy of Higher Education |
-| 💻 **Languages** | Python, C++, JavaScript, HTML, CSS ,Kotlin , Java ,PHP , R |
-| 🌱 **Currently Exploring** | AI-based automation & open source contribution |
-| ⚡ **Focus Areas** | Backend systems, full stack apps, clean API design |
+| **Education** | B.Sc. Computer Science, Artificial Intelligence and Data Science, Karpagam Academy of Higher Education |
+| **Languages** | Python, C++, JavaScript, HTML, CSS, Kotlin, Java, PHP, R |
+| **Currently Exploring** | AI-based automation and open source contribution |
+| **Focus Areas** | Backend systems, full stack apps, clean API design |
 
 <br/>
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 <div align="center">
 
@@ -52,28 +52,27 @@ I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas 
 
 <br/>
 
-## 🚀 What I Build
+## What I Build
 
-- **Full stack web apps** — Django, React, and REST APIs working together end-to-end
-- **Mobile-first interfaces** — clean, responsive layouts built for real users
-- **Backend systems** — authentication, database design, and third-party API integrations
-- **Automation projects** — practical tools powered by AI and modern dev workflows
+- **Full stack web apps** - Django, React, and REST APIs working together end-to-end
+- **Mobile-first interfaces** - clean, responsive layouts built for real users
+- **Backend systems** - authentication, database design, and third-party API integrations
+- **Automation projects** - practical tools powered by AI and modern dev workflows
 
 <br/>
-<br/>
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
 
 <a href="mailto:bbebinr@gmail.com">
-    <img src="https://img.shields.io/badge/Email-bbebinr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-bbebinr%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/Bebin-Tech">
-    <img src="https://img.shields.io/badge/GitHub-Bebin--dotm-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Bebin--Tech-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.instagram.com/bebin.tech/">
-    <img src="https://img.shields.io/badge/Instagram-bebin.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-bebin.tech-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
 </div>
@@ -81,8 +80,6 @@ I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas 
 <div align="center">
 
 <br/>
-
-
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:22c55e,50:2563eb,100:020617)
 
