@@ -37,16 +37,6 @@ I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas 
 
 <br/>
 
-## Let's Connect
-
-<div align="center">
-
-<a href="mailto:bbebinr@gmail.com">
-</a>
-<a href="https://github.com/Bebin-Tech">
-</a>
-<a href="https://www.instagram.com/bebin.tech/">
-</a>
 
 </div>
 
