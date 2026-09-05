@@ -42,13 +42,10 @@ I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas 
 <div align="center">
 
 <a href="mailto:bbebinr@gmail.com">
-  <img src="https://img.shields.io/badge/Email-bbebinr%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/Bebin-Tech">
-  <img src="https://img.shields.io/badge/GitHub-Bebin--Tech-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
 </a>
 <a href="https://www.instagram.com/bebin.tech/">
-  <img src="https://img.shields.io/badge/Instagram-bebin.tech-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
 </a>
 
 </div>
