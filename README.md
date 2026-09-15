@@ -20,9 +20,12 @@ I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django REST Framework" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=white" alt="JWT" />
-<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="REST APIs" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&amp;logo=render&amp;logoColor=111827" alt="Render" />
+
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=white" alt="JWT" /> 
+
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="REST APIs" />  
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&amp;logo=render&amp;logoColor=111827" alt="Render" />  
 
 </div>
 
