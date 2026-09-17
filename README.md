@@ -1,13 +1,44 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:020617,45:2563eb,100:22c55e&amp;text=Bebin%20R&amp;fontColor=ffffff&amp;fontSize=52&amp;fontAlignY=36&amp;desc=Full%20Stack%20%26%20Mobile%20App%20Developer&amp;descAlignY=58&amp;descSize=16&amp;animation=fadeIn" alt="Bebin R - Full Stack and Mobile App Developer" width="100%" />
+
+<img src="./assets/bebin-profile.png" alt="Bebin R" width="220" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;random=false&amp;width=820&amp;height=50&amp;lines=Full+Stack+Developer;Mobile+App+Developer;Django+%7C+React+%7C+REST+APIs;Building+Scalable+Web+Applications;Turning+Ideas+Into+Clean+Digital+Products" alt="Typing introduction" />
+</a>
+
+<p>
+  <a href="mailto:bbebinr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Bebin-Tech">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.instagram.com/bebin.tech/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
+  </a>
+</p>
+
+</div>
+
+<br/>
+
 ## About Me
 
-I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas into clean, reliable, production-ready software. I focus on backend architecture, scalable APIs, and thoughtful user experiences, and I'm currently exploring AI-driven automation and contributing to open source.
+I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas into clean, reliable, production-ready software.
+
+I focus on backend architecture, scalable APIs, and thoughtful user experiences. I'm currently exploring AI-driven automation and contributing to open-source projects.
 
 | | |
 |---|---|
-| **Education** | B.Sc. Computer Science, Artificial Intelligence and Data Science, Karpagam Academy of Higher Education |
-| **Languages** | Python, C++, JavaScript, HTML, CSS, Kotlin, Java, PHP, R |
-| **Currently Exploring** | AI-based automation and open source contribution |
-| **Focus Areas** | Backend systems, full stack apps, clean API design |
+| **Education** | B.Sc. Computer Science, Artificial Intelligence and Data Science |
+| **Institution** | Karpagam Academy of Higher Education |
+| **Languages** | Python, C++, JavaScript, HTML, CSS, Kotlin, Java, PHP and R |
+| **Currently Exploring** | AI-based automation and open-source contribution |
+| **Focus Areas** | Backend systems, full stack applications and clean API design |
 
 <br/>
 
@@ -20,12 +51,9 @@ I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/Django_REST_Framework-A30000?style=for-the-badge&amp;logo=django&amp;logoColor=white" alt="Django REST Framework" />
-
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=white" alt="JWT" /> 
-
-<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="REST APIs" />  
-
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&amp;logo=render&amp;logoColor=111827" alt="Render" />  
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&amp;logo=render&amp;logoColor=111827" alt="Render" />
 
 </div>
 
@@ -33,18 +61,74 @@ I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas 
 
 ## What I Build
 
-- **Full stack web apps** - Django, React, and REST APIs working together end-to-end
-- **Mobile-first interfaces** - clean, responsive layouts built for real users
-- **Backend systems** - authentication, database design, and third-party API integrations
-- **Automation projects** - practical tools powered by AI and modern dev workflows
+- **Full stack web applications** — Django, React and REST APIs working together
+- **Mobile-first interfaces** — clean and responsive layouts built for real users
+- **Backend systems** — authentication, database design and API integrations
+- **Automation projects** — practical tools powered by AI and modern workflows
 
 <br/>
 
-
-</div>
+## GitHub Statistics
 
 <div align="center">
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Bebin-Tech&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Bebin-Tech&amp;show_icons=true&amp;hide_border=true"
+    alt="Bebin's GitHub statistics"
+  />
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Bebin-Tech&amp;layout=compact&amp;hide_border=true&amp;theme=github_dark"
+  />
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bebin-Tech&amp;layout=compact&amp;hide_border=true"
+    alt="Bebin's most used languages"
+  />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=Bebin-Tech&amp;theme=github-dark-blue&amp;hide_border=true"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=Bebin-Tech&amp;hide_border=true"
+    alt="Bebin's GitHub contribution streak"
+  />
+</picture>
+
+</div>
+
 <br/>
+
+## Let's Connect
+
+<div align="center">
+
+<a href="mailto:bbebinr@gmail.com">
+  <img src="https://img.shields.io/badge/Email-bbebinr%40gmail.com-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/Bebin-Tech">
+  <img src="https://img.shields.io/badge/GitHub-Bebin--Tech-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.instagram.com/bebin.tech/">
+  <img src="https://img.shields.io/badge/Instagram-bebin.tech-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
+</a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=110&amp;section=footer&amp;color=0:22c55e,50:2563eb,100:020617" alt="Footer" width="100%" />
 
 </div>
