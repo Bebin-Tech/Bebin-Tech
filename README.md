@@ -3,7 +3,7 @@
 I'm **Bebin R** , a full stack and mobile app developer who enjoys turning ideas into clean, reliable, production-ready software. I focus on backend architecture, scalable APIs, and thoughtful user experiences, and I'm currently exploring AI-driven automation and contributing to open source.
 
 | | |
-|---|---|
+|---|---| 
 | **Education** | B.Sc. Computer Science, Artificial Intelligence and Data Science, Karpagam Academy of Higher Education |
 | **Languages** | Python, C++, JavaScript, HTML, CSS, Kotlin, Java, PHP, R |
 | **Currently Exploring** | AI-based automation and open source contribution |
