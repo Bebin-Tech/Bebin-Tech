@@ -25,7 +25,6 @@ I'm a full stack and mobile app developer who enjoys turning ideas into clean, r
 <img src="https://img.shields.io/badge/REST_APIs-0A101F?style=for-the-badge&amp;logo=fastapi&amp;logoColor=22D3EE" alt="REST APIs" />
 <img src="https://img.shields.io/badge/Render-0A101F?style=for-the-badge&amp;logo=render&amp;logoColor=10B981" alt="Render" />
 
-
 </div>
 
 <br/>
