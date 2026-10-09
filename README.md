@@ -34,7 +34,7 @@ I'm a full stack and mobile app developer who enjoys turning ideas into clean, r
 - **Full stack web apps** - Django, React, and REST APIs working together end-to-end
 - **Mobile-first interfaces** - clean, responsive layouts built for real users
 - **Backend systems** - authentication, database design, and third-party API integrations
-- **Automation projects** - practical tools powered by AI and modern dev workflows
+- **Automation projects** - practical tools powered by AI and modern dev workflows .
 
 <br/>
 
