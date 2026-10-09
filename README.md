@@ -8,7 +8,7 @@ I'm a full stack and mobile app developer who enjoys turning ideas into clean, r
 |---|---| 
 | **Education** | B.Sc. Computer Science, Artificial Intelligence and Data Science, Karpagam Academy of Higher Education |
 | **Languages** | Python, C++, JavaScript, HTML, CSS, Kotlin, Java, PHP, R |
-| **Currently Exploring** | AI-based automation and open source contribution |
+| **Currently Exploring** | AI-based automation and open source contribution | 
 | **Focus Areas** | Backend systems, full stack apps, clean API design |
 
 <br/>
