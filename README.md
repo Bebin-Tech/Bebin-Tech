@@ -16,7 +16,7 @@ I'm a full stack and mobile app developer who enjoys turning ideas into clean, r
  ## Technologies & Tools
 
 <div align="center">
-
+ 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,vite,tailwind,materialui,django,mysql,postgres,sqlite,git,github,vscode,postman,docker,linux,firebase,vercel&amp;theme=dark&amp;perline=10" alt="Technologies and tools" />
 
 <br/><br/>
