@@ -28,7 +28,7 @@ I'm a full stack and mobile app developer. who enjoys turning ideas into clean, 
 </div>
 
 <br/>
-
+ 
   ## What I Build
 
 - **Full stack web apps** -  Django, React, and REST APIs working together end-to-end
