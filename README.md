@@ -9,15 +9,15 @@ I'm a full stack and mobile app developer. who enjoys turning ideas into clean, 
 | **Education** | B.Sc. Computer Science, Artificial Intelligence and Data Science, Karpagam Academy of Higher Education |.
 | **Languages** | Python, C++, JavaScript, HTML, CSS, Kotlin, Java, PHP, R |
 | **Currently Exploring** | AI-based automation and open source contribution | 
-| **Focus Areas** | Backend systems, full stack apps, clean API design | 
+| **Focus Areas** | Backend systems, full stack apps, clean API design |  
 
 <br/>
 
  ## Technologies & Tools .
 
-<div align="center">
+<div align="center"> 
  
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,vite,tailwind,materialui,django,mysql,postgres,sqlite,git,github,vscode,postman,docker,linux,firebase,vercel&amp;theme=dark&amp;perline=10" alt="Technologies and tools" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,vite,tailwind,materialui,django,mysql,postgres,sqlite,git,github,vscode,postman,docker,linux,firebase,vercel&amp;theme=dark&amp;perline=10" alt="Technologies and tools." />
 
 <br/><br/>
 <img src="https://img.shields.io/badge/Django_REST_Framework-0A101F?style=for-the-badge&amp;logo=django&amp;logoColor=10B981" alt="Django REST Framework" />
