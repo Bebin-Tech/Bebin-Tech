@@ -11,7 +11,7 @@ I'm a full stack and mobile app developer . who enjoys turning ideas into clean,
 
 <br/>
 
- ## Technologies & Tools .
+ ## Technologies & Tools 
 
 <div align="center"> 
   
