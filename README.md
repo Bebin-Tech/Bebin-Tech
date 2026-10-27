@@ -10,7 +10,7 @@ I'm a full stack and mobile app developer . who enjoys turning ideas into clean,
 | **Focus Areas** | Backend systems, full stack apps, clean API design | 
 
 <br/>
-
+ 
  ## Technologies & Tools 
 
 <div align="center"> 
