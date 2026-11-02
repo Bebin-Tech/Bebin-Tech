@@ -35,4 +35,3 @@ What I Build
 
 
 </div>
-"Improve the UI further with a more modern, attractive, and professional design. Also, add many more tools, features, and technologies to make the application more advanced, powerful, and feature-rich."
