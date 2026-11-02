@@ -6,21 +6,14 @@ I'm a full stack and mobile app developer . who enjoys turning ideas into clean,
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,kotlin,java,php,r,react,vite,tailwind,materialui,django,mysql,postgres,sqlite,firebase,git,github,vscode,postman,docker,linux,vercel&theme=dark&perline=9" alt="Languages, frameworks, databases, and developer tools" />
-
 <br /><br />
-
 <img src="https://cdn.simpleicons.org/django/10B981" width="48" height="48" hspace="4" alt="Django REST Framework" title="Django REST Framework" />
 <img src="https://cdn.simpleicons.org/jsonwebtokens/A78BFA" width="48" height="48" hspace="4" alt="JWT" title="JWT" />
 <img src="https://cdn.simpleicons.org/openapiinitiative/85EA2D" width="48" height="48" hspace="4" alt="REST APIs / OpenAPI" title="REST APIs / OpenAPI" />
 <img src="https://cdn.simpleicons.org/render/46E3B7" width="48" height="48" hspace="4" alt="Render" title="Render" />
-
-<br /><br />
-
-<!-- Exploring: keep only technologies that match your learning plans. -->
+<br /><br /><!-- Exploring: keep only technologies that match your learning plans. -->
 <img src="https://skillicons.dev/icons?i=ts,pytorch,sklearn,redis,githubactions&theme=dark&perline=9" alt="Exploring TypeScript, PyTorch, scikit-learn, Redis, and GitHub Actions" />
-
 <br /><br />
-
 <img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="48" height="48" hspace="4" alt="Exploring Pytest" title="Pytest" />
 <img src="https://cdn.simpleicons.org/celery/10B981" width="48" height="48" hspace="4" alt="Exploring Celery" title="Celery" />
 
