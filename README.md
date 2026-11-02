@@ -11,18 +11,19 @@ Focus Areas	Backend systems, full stack apps, clean API design
 Technologies & Tools
 <div align="center"> 
   
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,vite,tailwind,materialui,django,mysql,postgres,sqlite,git,github,vscode,postman,docker,linux,firebase,vercel&amp;theme=dark&amp;perline=10" alt="Technologies and tools." />
-
-
-
-
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,vite,tailwind,materialui,django,mysql,postgres,sqlite,git,github,vscode,postman,docker,linux,firebase,vercel&amp;theme=dark&amp;perline=10" alt="Technologies and tools." /> 
 <img src="https://img.shields.io/badge/Django_REST_Framework-0A101F?style=for-the-badge&amp;logo=django&amp;logoColor=10B981" alt="Django REST Framework" />
 <img src="https://img.shields.io/badge/JWT-0A101F?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=A78BFA" alt="JWT" />
 <img src="https://img.shields.io/badge/REST_APIs-0A101F?style=for-the-badge&amp;logo=fastapi&amp;logoColor=22D3EE" alt="REST APIs" />
 <img src="https://img.shields.io/badge/Render-0A101F?style=for-the-badge&amp;logo=render&amp;logoColor=10B981" alt="Render" />
 </div>
  
-
+| | | 
+|---|---|      
+| **Education** | B.Sc. Computer Science, Artificial Intelligence and Data Science, Karpagam Academy of Higher Education |.
+| **Languages** | Python, C++, JavaScript, HTML, CSS, Kotlin, Java, PHP, R |
+| **Currently Exploring** | AI-based automation and open source contribution | 
+| **Focus Areas** | Backend systems, full stack apps, clean API design |
 What I Build
 - Full stack web apps -  Django, React, and REST APIs working together end-to-end
 - Mobile-first interfaces - clean, responsive layouts built for real users
