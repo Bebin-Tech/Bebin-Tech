@@ -44,6 +44,7 @@ I'm a full stack and mobile app developer . who enjoys turning ideas into clean,
 <img src="https://img.shields.io/badge/OpenAPI-0A101F?style=for-the-badge&amp;logo=openapiinitiative&amp;logoColor=85EA2D" alt="Exploring OpenAPI" />
 
 </div>
+
 | | | 
 |---|---|      
 | **Education** | B.Sc. Computer Science, Artificial Intelligence and Data Science, Karpagam Academy of Higher Education |.
