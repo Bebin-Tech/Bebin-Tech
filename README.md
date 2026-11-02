@@ -1,131 +1,86 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Bebin R — Full Stack and Mobile App Developer. Python, web development, and software engineering." />
+</p>
 
-# Hi, I'm Bebin R 👋
+<p align="center">
+  <a href="https://github.com/Bebin-Tech?tab=repositories"><img src="https://img.shields.io/badge/Explore_My_Repositories-0F172A?style=for-the-badge&logo=github&logoColor=5EEAD4" alt="Explore my repositories" /></a>
+  <a href="#engineering-focus"><img src="https://img.shields.io/badge/Engineering_Focus-0F172A?style=for-the-badge&logo=buffer&logoColor=93C5FD" alt="Engineering focus" /></a>
+  <a href="#learning--direction"><img src="https://img.shields.io/badge/AI_%2F_ML_Journey-0F172A?style=for-the-badge&logo=python&logoColor=5EEAD4" alt="AI and ML journey" /></a>
+</p>
 
-### Full Stack & Mobile App Developer
-
-**Thoughtful interfaces. Reliable APIs. Software built to last.**
-
-I turn ideas into clean, reliable, production-ready software,
-with a focus on backend architecture, scalable APIs, and thoughtful user experiences.
-
-[About Me](#about-me) •
-[Tech Stack](#tech-stack) •
-[What I Build](#what-i-build) •
-[Currently Exploring](#currently-exploring)
-
-</div>
+<p align="center">
+  <b>I connect thoughtful user experiences with dependable software systems.</b><br />
+  Full stack applications · Mobile interfaces · Python backends · AI-driven automation
+</p>
 
 ---
 
-## About Me
+## A little about me
 
-- 🎓 **Education:** B.Sc. Computer Science, Artificial Intelligence and Data Science  
-  **Karpagam Academy of Higher Education**
-- 💻 **Development:** Full stack web applications and mobile experiences
-- ⚙️ **Focus:** Backend architecture, scalable APIs, and database design
-- 🌱 **Exploring:** AI-driven automation and open source contributions
-- 🧩 **Approach:** Clean code, maintainable systems, and thoughtful user experiences
+I'm **Bebin R**, a full stack and mobile app developer who enjoys turning ideas into clean, reliable, production-ready software. My focus is on **backend architecture, scalable APIs, and thoughtful user experiences**—from the interface people use to the systems that support it.
 
----
+My academic background is in **Computer Science, Artificial Intelligence and Data Science** at **Karpagam Academy of Higher Education**. I'm currently exploring AI-driven automation and ways to contribute to open source.
 
-## Tech Stack
+## Engineering focus
 
-### Languages
+| | Focus | What I build toward |
+| :---: | :--- | :--- |
+| **01** | **Full Stack & Web Development** | Connected applications with React interfaces, Django backends, and REST APIs. |
+| **02** | **Mobile App Development** | Clear, responsive experiences, supported by Kotlin and Java in my language toolkit. |
+| **03** | **Python & Backend Engineering** | Authentication, database design, API integrations, and practical automation. |
+| **04** | **Software Engineering** | Clean architecture, readable code, and maintainable application boundaries. |
+| **05** | **AI / ML Exploration** | Building on my academic background while exploring AI-driven automation. |
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,kotlin,java,php,r&theme=dark&perline=9" alt="Python, C++, JavaScript, HTML, CSS, Kotlin, Java, PHP, and R" />
-</p>
+## Technology toolkit
 
-### Frontend & UI
+**Languages**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,materialui&theme=dark" alt="React, Vite, Tailwind CSS, and Material UI" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,kotlin,java,cpp,php,r,html,css&theme=dark&perline=9" alt="Python, JavaScript, Kotlin, Java, C++, PHP, R, HTML, and CSS" />
 
-### Backend & APIs
+**Frontend & interface development**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=django,firebase&theme=dark" alt="Django and Firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,materialui&theme=dark" alt="React, Vite, Tailwind CSS, and Material UI" />
+
+**Backend, databases & services**
+
+<img src="https://skillicons.dev/icons?i=django,mysql,postgres,sqlite,firebase&theme=dark" alt="Django, MySQL, PostgreSQL, SQLite, and Firebase" />
 
 <p>
-  <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django REST Framework" />
-  <img src="https://img.shields.io/badge/JWT-18181B?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JSON Web Tokens" />
-  <img src="https://img.shields.io/badge/REST_APIs-0891B2?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Django_REST_Framework-0F172A?style=flat-square&logo=django&logoColor=5EEAD4" alt="Django REST Framework" />
+  <img src="https://img.shields.io/badge/REST_APIs-0F172A?style=flat-square&logoColor=93C5FD" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JWT_Authentication-0F172A?style=flat-square&logo=jsonwebtokens&logoColor=93C5FD" alt="JWT authentication" />
 </p>
 
-### Databases
+**Developer tools & deployment**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="MySQL, PostgreSQL, and SQLite" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,vercel&theme=dark&perline=7" alt="Git, GitHub, VS Code, Postman, Docker, Linux, and Vercel" />
 
-### Development & Deployment
+<img src="https://img.shields.io/badge/Render-0F172A?style=flat-square&logo=render&logoColor=5EEAD4" alt="Render" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux,vercel&theme=dark&perline=7" alt="Git, GitHub, VS Code, Postman, Docker, Linux, and Vercel" />
-</p>
+## Explore my work
 
-<p>
-  <img src="https://img.shields.io/badge/Render-18181B?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
-</p>
+My repositories are the place to explore my code, implementation choices, and ongoing experiments.
 
----
+**[Browse all repositories →](https://github.com/Bebin-Tech?tab=repositories)**
 
-## What I Build
-
-| Area | What I Focus On |
-| :--- | :--- |
-| 🌐 **Full Stack Applications** | Django, React, and REST APIs working together end to end |
-| 📱 **Mobile Experiences** | Clean, responsive interfaces designed around real users |
-| ⚙️ **Backend Systems** | Authentication, database design, and third-party API integrations |
-| 🤖 **Automation Tools** | Practical workflows powered by AI and modern development tools |
-
----
-
-## Currently Exploring
-
-- **AI-driven automation** — turning repetitive tasks into useful, reusable workflows.
-- **Open source contributions** — exploring codebases and finding meaningful ways to contribute.
-- **Backend architecture** — building a deeper understanding of scalable services and clean API design.
-
-<details>
-<summary><b>🧭 Potential Learning Roadmap</b></summary>
-
-These are technologies and practices to explore next.
-
-| Area | Tools & Topics |
-| :--- | :--- |
-| **Typed Development** | TypeScript |
-| **Automated Testing** | Pytest, React Testing Library, Playwright |
-| **CI/CD** | GitHub Actions |
-| **Caching & Background Jobs** | Redis, Celery |
-| **API Documentation** | OpenAPI, Swagger |
-| **Observability** | Structured logging, metrics, error tracking |
-| **Application Security** | Input validation, permissions, rate limiting |
-
-</details>
-
-<!--
-Uncomment and customize the following sections with your real details.
-
-## Featured Projects
-
-| Project | Description | Technologies | Links |
-| :--- | :--- | :--- | :--- |
-| Project Name | What it solves and your contribution | Django, React, PostgreSQL | [Code](YOUR_REPOSITORY_URL) · [Demo](YOUR_DEMO_URL) |
-
-## Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-18181B?style=for-the-badge&logo=googlechrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+<!-- Replace this comment with 3–4 verified flagship projects.
+For each project include:
+- Repository link and optional working demo
+- The problem it solves
+- Your specific contribution
+- Technologies actually used
+Avoid invented metrics, placeholder links, and claims not supported by the project.
 -->
 
+## Learning & direction
+
+- **AI / ML:** Connect my academic foundation with practical software and automation use cases.
+- **Backend systems:** Deepen my understanding of scalable architecture and clean API design.
+- **Open source:** Explore codebases, learn from existing systems, and find useful contributions.
+
 ---
 
-<div align="center">
-
-**Building with curiosity. Improving with every iteration.**
-
-</div>
+<p align="center">
+  <b>From interface to API. From idea to implementation.</b><br />
+  <sub>Bebin R · <a href="https://github.com/Bebin-Tech">@Bebin-Tech</a></sub>
+</p>
