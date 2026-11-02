@@ -5,8 +5,6 @@ I'm a full stack and mobile app developer . who enjoys turning ideas into clean,
 ## Technologies & Tools
 
 <div align="center">
-
-<h3>Languages</h3>
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,kotlin,java,php,r&amp;theme=dark&amp;perline=9" alt="Python, C++, JavaScript, HTML, CSS, Kotlin, Java, PHP, and R" />
 <img src="https://skillicons.dev/icons?i=react,vite,tailwind,materialui&amp;theme=dark&amp;perline=8" alt="React, Vite, Tailwind CSS, and Material UI" />
 <img src="https://skillicons.dev/icons?i=django,mysql,postgres,sqlite,firebase&amp;theme=dark&amp;perline=8" alt="Django, MySQL, PostgreSQL, SQLite, and Firebase" />
