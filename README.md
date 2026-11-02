@@ -6,6 +6,8 @@ Technologies & Tools
 <div align="center"> 
   
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,vite,tailwind,materialui,django,mysql,postgres,sqlite,git,github,vscode,postman,docker,linux,firebase,vercel&amp;theme=dark&amp;perline=10" alt="Technologies and tools." /> 
+
+
 <img src="https://img.shields.io/badge/Django_REST_Framework-0A101F?style=for-the-badge&amp;logo=django&amp;logoColor=10B981" alt="Django REST Framework" />
 <img src="https://img.shields.io/badge/JWT-0A101F?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=A78BFA" alt="JWT" />
 <img src="https://img.shields.io/badge/REST_APIs-0A101F?style=for-the-badge&amp;logo=fastapi&amp;logoColor=22D3EE" alt="REST APIs" />
