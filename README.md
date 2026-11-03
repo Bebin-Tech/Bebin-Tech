@@ -4,7 +4,7 @@ I'm a full stack and mobile app developer . who enjoys turning ideas into clean,
 ##  Tools & Technologies
 
 <div align="center">
-
+ 
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,kotlin,java,php,r,react,vite,tailwind,materialui,django,mysql,postgres,sqlite,firebase,git,github,vscode,postman,docker,linux,vercel&theme=dark&perline=9" alt="Languages, frameworks, databases, and developer tools" />
 <br /><br />
 <img src="https://cdn.simpleicons.org/django/10B981" width="48" height="48" hspace="4" alt="Django REST Framework" title="Django REST Framework" />
