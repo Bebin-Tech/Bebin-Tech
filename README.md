@@ -26,7 +26,7 @@ I'm a full stack and mobile app developer. who enjoys turning ideas into clean, 
 | **Languages** | Python, C++, JavaScript, HTML, CSS, Kotlin, Java, PHP, R |
 | **Currently Exploring** | AI-based automation and open source contribution | 
 | **Focus Areas** | Backend systems, full stack apps, clean API design |
-
+| | | 
 What I Build
 - Full stack web apps -  Django, React, and REST APIs working together end-to-end
 - Mobile-first interfaces - clean, responsive layouts built for real users
