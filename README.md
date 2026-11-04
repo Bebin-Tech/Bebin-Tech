@@ -8,17 +8,7 @@ I'm a **full stack and mobile app developer** who enjoys turning ideas into clea
 |  **Focus Areas** | Backend systems · Full stack apps · Clean API design |
 |  **Currently Exploring** | AI-based automation · Open source contribution |
 |  **Languages Used** | **9** programming & markup languages |
-
----
-
-## 🛠️ What I Build
-
-- 🌐 **Full stack web apps** – Django, React, and REST APIs working together end-to-end
-- 📱 **Mobile-first interfaces** – clean, responsive layouts built for real users
-- ⚙️ **Backend systems** – authentication, database design, and third-party API integrations
-- 🤖 **Automation projects** – practical tools powered by AI and modern dev workflows
-
----
+| | |
 
 ## 📊 Languages I Use (9)
 
@@ -56,6 +46,15 @@ I'm a **full stack and mobile app developer** who enjoys turning ideas into clea
 </div>
 <br />
 
-*"Clean code, reliable systems, thoughtful experiences."*
+---
+## 🛠️ What I Build
+
+- 🌐 **Full stack web apps** – Django, React, and REST APIs working together end-to-end
+- 📱 **Mobile-first interfaces** – clean, responsive layouts built for real users
+- ⚙️ **Backend systems** – authentication, database design, and third-party API integrations
+- 🤖 **Automation projects** – practical tools powered by AI and modern dev workflows
+---
+
+  *"Clean code, reliable systems, thoughtful experiences."*
 
 </div>
