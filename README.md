@@ -7,7 +7,7 @@ I'm a **full stack and mobile app developer** who enjoys turning ideas into clea
 |  **Education** | B.Sc. Computer Science (AI & Data Science), Karpagam Academy of Higher Education |
 |  **Focus Areas** | Backend systems · Full stack apps · Clean API design |
 |  **Currently Exploring** | AI-based automation · Open source contribution |
-|  **Languages Used** | **9** programming & markup languages |
+|  **Languages Used** | **10+** programming & markup languages |
 | | |
 
 <h3>🧰 Languages & Tech Stack<h3/>
