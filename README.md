@@ -2,7 +2,7 @@
 
 I'm a **full stack and mobile app developer** who enjoys turning ideas into clean, reliable, production-ready software. I focus on **backend architecture, scalable APIs, and thoughtful user experiences**, and I'm currently exploring **AI-driven automation** and contributing to **open source**.
 
-| | |
+| | | 
 |---|---|
 |  **Education** | B.Sc. Computer Science (AI & Data Science), Karpagam Academy of Higher Education |
 |  **Focus Areas** | Backend systems · Full stack apps · Clean API design |
