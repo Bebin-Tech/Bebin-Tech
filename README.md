@@ -9,7 +9,7 @@ I'm a **full stack and mobile app developer** who enjoys turning ideas into clea
 |  **Currently Exploring** | AI-based automation · Open source contribution |
 |  **Languages Used** | **10+** programming & markup languages |
 | | | 
- 
+
 <h2 align="center">🧰 Languages &amp; Tech Stack</h2>
 
 <table align="center" width="100%">
@@ -115,4 +115,4 @@ I'm a **full stack and mobile app developer** who enjoys turning ideas into clea
 </table>
 
 <p align="center"><sub>📌 Language levels are my own estimates.</sub></p>
----     
+                                      ---     
