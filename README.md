@@ -87,7 +87,6 @@ I'm a **full stack and mobile app developer** who enjoys turning ideas into clea
 
   <b>🎨 Frontend</b><br/>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,materialui&theme=dark&perline=4" /><br/><br/>
-
   <b>⚙️ Backend &amp; APIs</b><br/>
   <img src="https://skillicons.dev/icons?i=django,python&theme=dark&perline=4" /><br/>
   <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" />
@@ -95,23 +94,18 @@ I'm a **full stack and mobile app developer** who enjoys turning ideas into clea
   <img src="https://img.shields.io/badge/REST%20APIs-85EA2D?style=for-the-badge&logo=openapiinitiative&logoColor=black" />
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
   <br/><br/>
-
   <b>🗄️ Databases</b><br/>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,redis&theme=dark&perline=5" /><br/><br/>
-
   <b>🚀 DevOps &amp; Hosting</b><br/>
   <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,vercel&theme=dark&perline=4" /><br/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
   <br/><br/>
-
   <b>🧪 Tools &amp; Testing</b><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" /><br/>
   <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
   <br/><br/>
-
   <b>🔭 Exploring</b><br/>
   <img src="https://skillicons.dev/icons?i=ts,pytorch,sklearn&theme=dark&perline=3" />
-
 </td>
 </tr> </table>
 ---     
