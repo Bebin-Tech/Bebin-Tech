@@ -10,6 +10,7 @@ I'm a **full stack and mobile app developer** who enjoys turning ideas into clea
 |  **Languages Used** | **10+** programming & markup languages |
 | | | 
   
+<h2 align="center">🧰 Languages & Tech Stack</h2> <p align="center"> <img src="https://img.shields.io/badge/Full--Stack-Developer-8B5CF6?style=for-the-badge&logo=stackblitz&logoColor=white" /> <img src="https://img.shields.io/badge/Backend-Django%20%7C%20DRF-10B981?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Tailwind-06B6D4?style=for-the-badge&logo=react&logoColor=white" /> </p> <table align="center" width="100%"> <tr> <th align="center" width="50%">📊 Languages</th> <th align="center" width="50%">🛠️ Tech Stack</th> </tr> <tr>
 <!-- ================= LEFT: LANGUAGES ================= -->
 <td valign="top" width="50%">
   <table width="100%">
@@ -118,5 +119,4 @@ I'm a **full stack and mobile app developer** who enjoys turning ideas into clea
   <img src="https://skillicons.dev/icons?i=ts,pytorch,sklearn&theme=dark&perline=3" />
 
 </td>
-
- 
+</tr> </table>
