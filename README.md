@@ -9,7 +9,109 @@ I'm a **full stack and mobile app developer** who enjoys turning ideas into clea
 |  **Currently Exploring** | AI-based automation · Open source contribution |
 |  **Languages Used** | **10+** programming & markup languages |
 | | | 
-  
-<h2>🧰 Languages & Tech Stack<h2/>
-<table> <tr> <th align="center" width="50%">📊 Languages </th> <th align="center" width="50%">🛠️ Tech Stack</th> </tr> <tr> <td valign="top"> <table> <tr><td><b>🐍 Python</b></td><td><code>██████████████████░░</code></td><td align="right">90%</td></tr> <tr><td><b>🌐 HTML</b></td><td><code>██████████████████░░</code></td><td align="right">90%</td></tr> <tr><td><b>🟨 JavaScript</b></td><td><code>█████████████████░░░</code></td><td align="right">85%</td></tr> <tr><td><b>🎨 CSS</b></td><td><code>████████████████░░░░</code></td><td align="right">80%</td></tr> <tr><td><b>🗄️ SQL</b></td><td><code>████████████████░░░░</code></td><td align="right">80%</td></tr> <tr><td><b>☕ Java</b></td><td><code>██████████████░░░░░░</code></td><td align="right">70%</td></tr> <tr><td><b>🟣 Kotlin</b></td><td><code>██████████████░░░░░░</code></td><td align="right">70%</td></tr> <tr><td><b>🎯 Dart</b></td><td><code>██████████████░░░░░░</code></td><td align="right">70%</td></tr> <tr><td><b>⚡ C++</b></td><td><code>█████████████░░░░░░░</code></td><td align="right">65%</td></tr> <tr><td><b>🐘 PHP</b></td><td><code>████████████░░░░░░░░</code></td><td align="right">60%</td></tr> <tr><td><b>📈 R</b></td><td><code>███████████░░░░░░░░░</code></td><td align="right">55%</td></tr> <tr><td><b>🐹 Go</b></td><td><code>███████████░░░░░░░░░</code></td><td align="right">55%</td></tr> <tr><td><b>🦀 Rust</b></td><td><code>█████████░░░░░░░░░░░</code></td><td align="right">45%</td></tr> </table> <sub>Levels are my own estimates.</sub> </td> <td valign="top" align="center"> <b>Frameworks · Databases · Tools</b><br /> <img src="https://skillicons.dev/icons?i=react,vite,tailwind,materialui,django,mysql,postgres,sqlite,firebase,git,github,vscode,postman,docker,linux,vercel&theme=dark&perline=6" alt="Frameworks, databases, and developer tools" /> <br /><br /> <b></b><br /> <img src="https://cdn.simpleicons.org/django/10B981" width="44" height="44" hspace="6" alt="Django REST Framework" title="Django REST Framework" /> <img src="https://cdn.simpleicons.org/jsonwebtokens/A78BFA" width="44" height="44" hspace="6" alt="JWT" title="JWT" /> <img src="https://cdn.simpleicons.org/openapiinitiative/85EA2D" width="44" height="44" hspace="6" alt="REST APIs / OpenAPI" title="REST APIs / OpenAPI" /> <img src="https://cdn.simpleicons.org/render/46E3B7" width="44" height="44" hspace="6" alt="Render" title="Render" /> <br /><br /> <b></b><br /> <img src="https://skillicons.dev/icons?i=ts,pytorch,sklearn,redis,githubactions&theme=dark&perline=5" alt="Exploring TypeScript, PyTorch, scikit-learn, Redis, and GitHub Actions" /> <br /> <img src="https://cdn.simpleicons.org/pytest/0A9EDC" width="44" height="44" hspace="6" alt="Pytest" title="Pytest" /> <img src="https://cdn.simpleicons.org/celery/10B981" width="44" height="44" hspace="6" alt="Celery" title="Celery" /> </td> </tr> </table> <div align="center">
+  <h2 align="center">🧰 Languages &amp; Tech Stack</h2> <table align="center" width="100%"> <tr> <th align="center" width="50%">📊 Languages</th> <th align="center" width="50%">🛠️ Tech Stack</th> </tr> <tr>
+<!-- ========== LEFT: LANGUAGES ========== -->
+<td valign="top" width="50%">
+  <table width="100%">
+    <tr>
+      <td><b>🐍 Python</b></td>
+      <td><code>▰▰▰▰▰▰▰▰▰▱</code></td>
+      <td align="right"><img src="https://img.shields.io/badge/90%25-3776AB?style=flat-square" alt="90%" /></td>
+    </tr>
+    <tr>
+      <td><b>🌐 HTML</b></td>
+      <td><code>▰▰▰▰▰▰▰▰▰▱</code></td>
+      <td align="right"><img src="https://img.shields.io/badge/90%25-E34F26?style=flat-square" alt="90%" /></td>
+    </tr>
+    <tr>
+      <td><b>🟨 JavaScript</b></td>
+      <td><code>▰▰▰▰▰▰▰▰▱▱</code></td>
+      <td align="right"><img src="https://img.shields.io/badge/85%25-D4B000?style=flat-square" alt="85%" /></td>
+    </tr>
+    <tr>
+      <td><b>🎨 CSS</b></td>
+      <td><code>▰▰▰▰▰▰▰▰▱▱</code></td>
+      <td align="right"><img src="https://img.shields.io/badge/80%25-1572B6?style=flat-square" alt="80%" /></td>
+    </tr>
+    <tr>
+      <td><b>🗄️ SQL</b></td>
+      <td><code>▰▰▰▰▰▰▰▰▱▱</code></td>
+      <td align="right"><img src="https://img.shields.io/badge/80%25-4479A1?style=flat-square" alt="80%" /></td>
+    </tr>
+    <tr>
+      <td><b>☕ Java</b></td>
+      <td><code>▰▰▰▰▰▰▰▱▱▱</code></td>
+      <td align="right"><img src="https://img.shields.io/badge/70%25-ED8B00?style=flat-square" alt="70%" /></td>
+    </tr>
+    <tr>
+      <td><b>🟣 Kotlin</b></td>
+      <td><code>▰▰▰▰▰▰▰▱▱▱</code></td>
+      <td align="right"><img src="https://img.shields.io/badge/70%25-7F52FF?style=flat-square" alt="70%" /></td>
+    </tr>
+    <tr>
+      <td><b>🎯 Dart</b></td>
+      <td><code>▰▰▰▰▰▰▰▱▱▱</code></td>
+      <td align="right"><img src="https://img.shields.io/badge/70%25-0175C2?style=flat-square" alt="70%" /></td>
+    </tr>
+    <tr>
+      <td><b>⚡ C++</b></td>
+      <td><code>▰▰▰▰▰▰▱▱▱▱</code></td>
+      <td align="right"><img src="https://img.shields.io/badge/65%25-00599C?style=flat-square" alt="65%" /></td>
+    </tr>
+    <tr>
+      <td><b>🐘 PHP</b></td>
+      <td><code>▰▰▰▰▰▰▱▱▱▱</code></td>
+      <td align="right"><img src="https://img.shields.io/badge/60%25-777BB4?style=flat-square" alt="60%" /></td>
+    </tr>
+    <tr>
+      <td><b>📈 R</b></td>
+      <td><code>▰▰▰▰▰▰▱▱▱▱</code></td>
+      <td align="right"><img src="https://img.shields.io/badge/55%25-276DC3?style=flat-square" alt="55%" /></td>
+    </tr>
+    <tr>
+      <td><b>🐹 Go</b></td>
+      <td><code>▰▰▰▰▰▰▱▱▱▱</code></td>
+      <td align="right"><img src="https://img.shields.io/badge/55%25-00ADD8?style=flat-square" alt="55%" /></td>
+    </tr>
+    <tr>
+      <td><b>🦀 Rust</b></td>
+      <td><code>▰▰▰▰▱▱▱▱▱▱</code></td>
+      <td align="right"><img src="https://img.shields.io/badge/45%25-B7410E?style=flat-square" alt="45%" /></td>
+    </tr>
+  </table>
+  <p align="center"><sub>📌 Levels are my own estimates.</sub></p>
+</td>
+
+<!-- ========== RIGHT: TECH STACK ========== -->
+<td valign="top" align="center" width="50%">
+
+  <b>🎨 Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,materialui&theme=dark&perline=4" /><br/><br/>
+
+  <b>⚙️ Backend &amp; APIs</b><br/>
+  <img src="https://skillicons.dev/icons?i=django,python&theme=dark&perline=4" /><br/>
+  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/REST%20APIs-85EA2D?style=for-the-badge&logo=openapiinitiative&logoColor=black" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+  <br/><br/>
+
+  <b>🗄️ Databases</b><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,firebase,redis&theme=dark&perline=5" /><br/><br/>
+
+  <b>🚀 DevOps &amp; Hosting</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,linux,githubactions,vercel&theme=dark&perline=4" /><br/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+  <br/><br/>
+
+  <b>🧪 Tools &amp; Testing</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark&perline=4" /><br/>
+  <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <br/><br/>
+
+  <b>🔭 Exploring</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,pytorch,sklearn&theme=dark&perline=3" />
+
+</td>
+</tr> </table>
 ---     
